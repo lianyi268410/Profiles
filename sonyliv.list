@@ -2,6 +2,11 @@
 USER-AGENT,sonyliv*,sonyliv
 DOMAIN-SUFFIX,sonyliv.com,sonyliv
 DOMAIN-SUFFIX,wzrkt.com,sonyliv
-DOMAIN-SUFFIX,doubleclick.net,sonyliv
-DOMAIN,a748074ce1b51fb8e9ad76c72c6501250bd9ef90.cws.conviva.com,sonyliv
 DOMAIN,sony247channels.akamaized.net,sonyliv
+DOMAIN-SUFFIX,hotstar.com,sonyliv
+DOMAIN-SUFFIX,hotstarext.com,sonyliv
+DOMAIN,hshlsnews1-i.akamaihd.net,sonyliv
+DOMAIN,hssportsprepack.akamaized.net,sonyliv
+DOMAIN,staragvod2-vh.akamaihd.net,sonyliv
+DOMAIN,staragvod3-vh.akamaihd.net,sonyliv
+DOMAIN,9xm-i.akamaihd.net,sonyliv
