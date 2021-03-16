@@ -14,3 +14,7 @@ DOMAIN,fairplay-license.drm.technology,airtel
 DOMAIN,air9q2dn.anycast.nagra.com,airtel
 DOMAIN,fairplay-license.vudrm.tech,airtel
 DOMAIN,feed.entertainment.yv.theplatform.eu,airtel
+DOMAIN-SUFFIX,voot.com,airtel
+DOMAIN-SUFFIX,jio.com,airtel
+DOMAIN,viacom18-res.cloudinary.com,airtel
+DOMAIN,interactivity-prod-viacom18.firebaseapp.com,airtel
