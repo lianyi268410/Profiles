@@ -1,0 +1,10 @@
+# > funimation
+USER-AGENT,funimation*,funimation
+DOMAIN-SUFFIX,funimationsvc.com,funimation
+DOMAIN-SUFFIX,funimation.com,funimation
+DOMAIN,prod-api-funimationnow.dadcdigital.com,funimation
+DOMAIN,derf9v1xhwwx1.cloudfront.net,funimation
+DOMAIN,mcd5lyh-608jp1yn7cjt8r6w16fm.device.marketingcloudapis.com,funimation
+DOMAIN,7324166.collect.igodigital.com,funimation
+DOMAIN,d132fumi6di1wa.cloudfront.net,funimation
+DOMAIN,d33et77evd9bgg.cloudfront.net,funimation
