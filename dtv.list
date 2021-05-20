@@ -1,0 +1,6 @@
+# > dtv
+USER-AGENT,dtv*,dtv
+DOMAIN-SUFFIX,dmkt-sp.jp,dtv
+DOMAIN-SUFFIX,beetv.jp,dtv
+DOMAIN,ma1243-r.analytics.edgekey.net,dtv
+DOMAIN,o531915.ingest.sentry.io,dtv
