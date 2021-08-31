@@ -1,7 +1,7 @@
 payload:
   # > dtv
   # USER-AGENT,*dtv*
-  - DOMAIN-SUFFIX,pscdn.co
-  - DOMAIN-SUFFIX,scdn.co
-  - DOMAIN-SUFFIX,spoti.fi
-  - DOMAIN-SUFFIX,spotify.com
+  -DOMAIN-SUFFIX,dmkt-sp.jp
+  -DOMAIN-SUFFIX,beetv.jp
+  -DOMAIN,ma1243-r.analytics.edgekey.net
+  -DOMAIN,o531915.ingest.sentry.io
