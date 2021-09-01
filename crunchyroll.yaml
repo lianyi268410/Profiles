@@ -1,1 +1,14 @@
-
+payload:
+  # > crunchyroll
+  # USER-AGENT,crunchyroll*
+  - DOMAIN-SUFFIX,crunchyroll.com
+  - DOMAIN-SUFFIX,vrv.co
+  - DOMAIN-SUFFIX,funimationsvc.com
+  - DOMAIN-SUFFIX,funimation.com
+  - DOMAIN,vrv-eec.etp-prod.com
+  - DOMAIN,prod-api-funimationnow.dadcdigital.com
+  - DOMAIN,derf9v1xhwwx1.cloudfront.net
+  - DOMAIN,mcd5lyh-608jp1yn7cjt8r6w16fm.device.marketingcloudapis.com
+  - DOMAIN,7324166.collect.igodigital.com
+  - DOMAIN,d132fumi6di1wa.cloudfront.net
+  - DOMAIN,d33et77evd9bgg.cloudfront.net
