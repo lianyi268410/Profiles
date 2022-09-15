@@ -5,4 +5,4 @@ payload:
   - DOMAIN-SUFFIX,beetv.jp
   - DOMAIN,ma1243-r.analytics.edgekey.net
   - DOMAIN,o531915.ingest.sentry.io
-  - DOMAIN,amazon.co.jp
+  - DOMAIN-SUFFIX,amazon.co.jp
